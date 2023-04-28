@@ -1,16 +1,15 @@
 ### Hi there 👋
+## 👋 Hi! I'm Hibiki Nakagawa
+Focusing on machine learning and data engineering.
 
-<!--
-**hbknakagawa/hbknakagawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <a href="https://github.com/hbknakagawa/hbknakagawa/">
+    <img src="https://komarev.com/ghpvc/?username=hbknakagawa" alt="hbknakagawa" />
+  </a>
+  <a href="https://github.com/hbknakagawa">
+    <img height="20" src="https://img.shields.io/github/followers/hbknakagawa?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=hbknakagawa&hide=jupyter%20notebook,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=hbknakagawa&line_height=40&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
