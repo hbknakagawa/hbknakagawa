@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## 👋 Hi! I'm Hibiki Nakagawa. 
-Focusing on machine learning, data engineering and Robotics.
+Focusing on Machine Learning, Data Engineering and Robotics.
 
 <p align="left"> 
   <a href="https://github.com/hbknakagawa/hbknakagawa/">
